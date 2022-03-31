@@ -3,8 +3,6 @@
 </p>
 #  Codigo do trabalho de Progrmação orientada a objetos - codido do exercicio de carros
 
-esse projeto utiliza de recursos da versão 14+ no DiscordJS, recomenda-se esar a ultima versão do mesmo.
-
 Documentação:
 https://geordani-machado.gitbook.io/anima-bot/
 
